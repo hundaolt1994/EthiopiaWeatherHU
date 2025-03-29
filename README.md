@@ -1,1 +1,1 @@
-# EthiopiaWeatherHU
+cd path/to/your/project
